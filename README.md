@@ -1,3 +1,3 @@
 # Slidey_Tap
 
-Flutter Game using Flame Framework!
+Flutter Game Developed using Flame Framework!
